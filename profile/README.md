@@ -1,6 +1,8 @@
 <div align="center">
 
-# [Hydrate.to](https://hydrate.to)
+<a href="https://hydrate.to">
+  <img src="https://hydrate.to/banner_transparent.png" alt="Logo" width="500">
+</a>
 
 ### Coming Soon...
 
