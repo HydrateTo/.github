@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 MD033 MD041 -->
+
 <div align="center">
 
 [![Logo](https://hydrate.to/banner_transparent.png)](https://hydrate.to)
